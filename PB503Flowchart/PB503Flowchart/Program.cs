@@ -150,6 +150,37 @@
             //        break;
             //}
             #endregion
+
+            #region Classworks
+            //Verilmis N ededinin!(factorial)'ni tapan algorithm yazin. 
+            //(misal: 5! => 120, 6! => 720) 5! => 1 * 2 * 3 * 4 * 5
+
+            //int inputNumber = 5;
+            //int i = 1;
+            //int factorial = 1;
+
+            //while (i <= inputNumber)
+            //{
+            //    factorial *= i; // factorial = factorial * i;
+            //    i++;
+            //}
+
+            //Console.WriteLine($"{inputNumber}! => {factorial}");
+
+
+            //int inputNumber = 5;
+            //int factorial = 1;
+
+            //while (inputNumber > 0)
+            //{
+            //    factorial *= inputNumber;
+
+            //    inputNumber--;
+            //}
+
+            //Console.WriteLine(factorial);
+
+            #endregion
         }
     }
 }

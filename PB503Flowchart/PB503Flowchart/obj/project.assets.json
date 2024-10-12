@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\asus\\Desktop\\PB503Flowchart\\PB503Flowchart\\PB503Flowchart.csproj",
+      "projectUniqueName": "C:\\Users\\asus\\Desktop\\PB503-flowchart-while-switch\\PB503Flowchart\\PB503Flowchart\\PB503Flowchart.csproj",
       "projectName": "PB503Flowchart",
-      "projectPath": "C:\\Users\\asus\\Desktop\\PB503Flowchart\\PB503Flowchart\\PB503Flowchart.csproj",
+      "projectPath": "C:\\Users\\asus\\Desktop\\PB503-flowchart-while-switch\\PB503Flowchart\\PB503Flowchart\\PB503Flowchart.csproj",
       "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\asus\\Desktop\\PB503Flowchart\\PB503Flowchart\\obj\\",
+      "outputPath": "C:\\Users\\asus\\Desktop\\PB503-flowchart-while-switch\\PB503Flowchart\\PB503Flowchart\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\asus\\AppData\\Roaming\\NuGet\\NuGet.Config",

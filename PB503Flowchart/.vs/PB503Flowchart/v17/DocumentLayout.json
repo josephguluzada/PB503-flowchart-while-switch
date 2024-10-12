@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\asus\\Desktop\\PB503Flowchart\\",
+  "WorkspaceRootPath": "C:\\Users\\asus\\Desktop\\PB503-flowchart-while-switch\\PB503Flowchart\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C12B2479-A540-4A2D-AF9B-99D4AF034354}|PB503Flowchart\\PB503Flowchart.csproj|c:\\users\\asus\\desktop\\pb503flowchart\\pb503flowchart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C12B2479-A540-4A2D-AF9B-99D4AF034354}|PB503Flowchart\\PB503Flowchart.csproj|c:\\users\\asus\\desktop\\pb503-flowchart-while-switch\\pb503flowchart\\pb503flowchart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C12B2479-A540-4A2D-AF9B-99D4AF034354}|PB503Flowchart\\PB503Flowchart.csproj|solutionrelative:pb503flowchart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\PB503Flowchart\\PB503Flowchart\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\PB503-flowchart-while-switch\\PB503Flowchart\\PB503Flowchart\\Program.cs",
               "RelativeDocumentMoniker": "PB503Flowchart\\Program.cs",
-              "ToolTip": "C:\\Users\\asus\\Desktop\\PB503Flowchart\\PB503Flowchart\\Program.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\PB503-flowchart-while-switch\\PB503Flowchart\\PB503Flowchart\\Program.cs",
               "RelativeToolTip": "PB503Flowchart\\Program.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAUwGUAAAAMAAAA",
+              "ViewState": "AQIAAIgAAAAAAAAAAAAgwJQAAABNAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-12T11:39:14.103Z",
               "EditorCaption": ""
