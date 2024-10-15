@@ -181,6 +181,65 @@
             //Console.WriteLine(factorial);
 
             #endregion
+
+            #region Do-while
+            string secretWord = "pb503";
+            string inputWord = string.Empty; // ""
+            bool check = true;
+            int counter = 0;
+            do
+            {
+                counter++;
+                if(counter > 3)
+                {
+                    break;
+                }
+                if (check == true)
+                {
+                    Console.WriteLine("Enter secret word:");
+                    inputWord = Console.ReadLine();
+                    check = false;
+                }
+                else
+                {
+                    Console.WriteLine($"Incorrect, try again. Incorrect attempts: {counter}");
+                    Console.WriteLine("Enter secret word:");
+                    inputWord = Console.ReadLine();
+                }
+            } while (inputWord != secretWord);
+
+            if(counter <= 3)
+            {
+                Console.WriteLine($"After {counter} attempts. Finally it is correct!");
+            }
+            else
+            {
+                Console.WriteLine("Lockout");
+            }
+            #endregion
+
+            #region continue, break
+            // 5,6
+            //for (int i = 1; i <= 8; i++)
+            //{
+            //    if(i == 5 || i == 6)
+            //    {
+            //        continue;
+            //    }
+            //    Console.WriteLine(i);
+            //}
+
+            //int inputNumber = Convert.ToInt32(Console.ReadLine());
+
+            //for (int i = 0; i < 100; i++)
+            //{
+            //    if(inputNumber == i)
+            //    {
+            //        break;
+            //    }
+            //    Console.WriteLine("\n" + i);
+            //}
+            #endregion
         }
     }
 }

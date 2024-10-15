@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PB503Flowchart")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+22b176775219c34d6ada839562586f6a432e19a2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e2282947e417611b470a667b51883b258d8dfcad")]
 [assembly: System.Reflection.AssemblyProductAttribute("PB503Flowchart")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PB503Flowchart")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
